@@ -84,17 +84,17 @@ section {
 .navbar-brand {
   font-size: 2em;
   border: 0 0 10px 10px;
-  color: whitesmoke;
+  color: white;
 }
 
 #header-nav {
   border: 0;
   background-color: lightgrey;
-  color: whitesmoke;
+  color: white;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid darkgrey;
+  border: 1px solid red;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
