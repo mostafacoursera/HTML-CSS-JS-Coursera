@@ -107,7 +107,7 @@ section {
 
 .nav-brand {
   color: white;
-  font-size: 1.5em;
+  font-size: 3em;
 }
 
 #nav-list {
@@ -120,5 +120,5 @@ hr {
 
 .item {
   color: white;
-  font-size: 1.2em;
+  font-size: 2em;
 }
